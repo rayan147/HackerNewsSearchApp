@@ -11,6 +11,7 @@ const composeEnhancers =
     window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__) ||
   compose;
 
+  // inject AxiosInstance into action creators
 const middlewares = [thunk.withExtraArgument(api)];
 
 export const configureStore =createStore(
