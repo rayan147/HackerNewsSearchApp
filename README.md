@@ -11,7 +11,7 @@
 </p>
 
 ### Hosted here 
- [here](http://hn.rayanr.com)
+ [here](http://73.195.210.32:9180/)
  
 ### Installation
 Use the package manager [yarn](https://yarnpkg.com/) to install 
