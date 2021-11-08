@@ -33,3 +33,6 @@ cd frontend && yarn start
 * [React-Redux](https://react-redux.js.org/)
 * [API](http://hn.algolia.com/api/v1/)
 * [Axios](https://axios-http.com/docs/intro)
+* [Docker](https://www.docker.com/)
+* [Docker Compose](https://docs.docker.com/compose/intro/)
+* [Nginx](https://www.nginx.com/)
