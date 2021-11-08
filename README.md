@@ -27,7 +27,7 @@ cd frontend && yarn start
 
 ### tech stack
 * [React](https://reactjs.org/)
-* [React Router](https://reacttraining.com/react-router/web/guides/quick-start)
+* [React Router](https://reacttraining.com/react-router/web/guides/quick-start) # Note* used version 6.0.0
 * [Redux](https://redux.js.org/) # for state management,NOTE* it is not needed for this project, but it was in the job description bonus points.
 * [Redux-Thunk](https://github.com/reduxjs/redux-thunk) # for async actions
 * [React-Redux](https://react-redux.js.org/)
