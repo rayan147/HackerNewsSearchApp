@@ -1,0 +1,15 @@
+version: '3.4'
+
+services:
+  frontend:
+    build: .
+    dockerfile: Dockerfile
+    ports:
+      - "9180:80"
+    volumes:
+       - ./frontend:/app/frontend
+    image: frontend_hn:v1.0.0
+    restart: unless-stopped
+    environment:
+      - CHOKIDAR_USEPOLLING=true
+   

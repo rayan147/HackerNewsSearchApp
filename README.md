@@ -10,6 +10,17 @@
   <img src="./frontend/images/history.png" width="450" alt="hsitory">
 </p>
 
-# Hosted here 
+### Hosted here 
  [here](http://hn.rayanr.com)
  
+### Installation
+Use the package manager [yarn](https://yarnpkg.com/) to install 
+
+```bash
+cd frontend && yarn install
+```
+
+### Usage 
+```bash
+cd frontend && yarn start
+```
