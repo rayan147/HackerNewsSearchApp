@@ -24,3 +24,12 @@ cd frontend && yarn install
 ```bash
 cd frontend && yarn start
 ```
+
+### tech stack
+* [React](https://reactjs.org/)
+* [React Router](https://reacttraining.com/react-router/web/guides/quick-start)
+* [Redux](https://redux.js.org/) # for state management,NOTE* it is not needed for this project, but it was in the job description bonus points.
+* [Redux-Thunk](https://github.com/reduxjs/redux-thunk) # for async actions
+* [React-Redux](https://react-redux.js.org/)
+* [API](http://hn.algolia.com/api/v1/)
+* [Axios](https://axios-http.com/docs/intro)
