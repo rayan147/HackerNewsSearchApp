@@ -4,10 +4,10 @@
 * / is the homepage which displays two buttons: “Search” and “History”
 
 <p align="center">
-  <img src="./frontend/images/home.png" width="350" title="home">
-  <img src="./frontend/images/search1.png" width="350" alt="search1">
-  <img src="./frontend/images/search2.png" width="350" alt="search2">
-  <img src="./frontend/images/history.png" width="350" alt="hsitory">
+  <img src="./frontend/images/home.png" width="450" title="home">
+  <img src="./frontend/images/search1.png" width="450" alt="search1">
+  <img src="./frontend/images/search2.png" width="450" alt="search2">
+  <img src="./frontend/images/history.png" width="450" alt="hsitory">
 </p>
 
 # Hosted here 
