@@ -4,7 +4,7 @@ WORKDIR /app
 ENV PATH /app/node_modules/.bin:$PATH
 COPY package.json ./
 COPY yarn.lock ./
-RUN yarn ci --silent
+RUN  yarn install --frozen-lockfile 
 RUN yarn install react-scripts@3.4.1 -g --silent
 COPY . ./
 RUN yarn run build
